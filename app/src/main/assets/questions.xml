@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body>
+    <question>
+        <description>Do you feel depressed ?</description>
+        <option value="1">Yes</option>
+        <option value="2">No</option>
+        <option value="3">Maybe</option>
+    </question>
+    <question>
+        <description>Are you on medications ?</description>
+        <option value="1">Yes</option>
+        <option value="2">No</option>
+    </question>
+</body>
